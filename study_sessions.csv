@@ -1,4 +1,4 @@
-session_id,date,study_minutes,break_minutes,distaction_minutes,tasks_completed,productivity rating
+session_id,date,study_minutes,break_minutes,distraction_minutes,tasks_completed,productivity rating
 1,17/10/2026,45,10,15,2,5
 2,18/10/2026,40,10,12,3,5
 3,20/10/2026,60,20,10,5,7
